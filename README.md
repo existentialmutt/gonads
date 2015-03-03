@@ -1,2 +1,4 @@
 # gonads
-A CSP implementation for Haskell
+A Go-style CSP channel implementation for Haskell Monads.
+
+Get it?
